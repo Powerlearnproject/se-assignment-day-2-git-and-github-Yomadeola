@@ -11,8 +11,8 @@ GitHub is a web-based platform that leverages Git for version control, enabling 
 To set up a new repository on Github, the following step are involved.
 1. In the upper-right corner of any page, select , then click New repository.
 2. Type a name for your repository related to the project to be used for.
-3. A description can be added to the repository. ...
-4. Choose a repository visibilitye either "private" or "public"
+3. A description can be added to the repository. 
+4. Choose a repository visibility either "private" or "public"
 5. Select Initialize this repository with a README.
 6. Click Create repository.
 
